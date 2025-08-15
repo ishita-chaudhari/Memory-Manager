@@ -1,0 +1,20 @@
+load proc1 proc2 proc3
+listpr
+run 1
+run 2
+run 3
+swapout 1
+listpr
+swapin 1
+listpr
+run 1
+kill 2
+listpr
+load proc4 proc5
+listpr
+run 4
+run 5
+print 0 10
+pte 1 pte1
+pteall allpte
+exit

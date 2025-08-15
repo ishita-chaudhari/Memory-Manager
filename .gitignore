@@ -1,0 +1,10 @@
+# Ignore all executable files
+*.exe
+
+# Ignore all compiled executable files (no extension)
+memoryEngine
+
+#Ignore all HTML Statement files
+*.html
+
+.vscode/

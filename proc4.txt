@@ -1,0 +1,7 @@
+1
+load 7, 0
+load 3, 1
+add 0, 1, 2
+sub 1, 0, 3
+print 2
+print 3

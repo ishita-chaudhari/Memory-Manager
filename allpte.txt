@@ -1,0 +1,9 @@
+Current date : 15 8 2025 time : 11 20 36
+Pagetable of process pid 1 :
+0 : 0
+Pagetable of process pid 3 :
+0 : 2
+Pagetable of process pid 4 :
+0 : 1
+Pagetable of process pid 5 :
+0 : 3
